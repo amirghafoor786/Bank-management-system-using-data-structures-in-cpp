@@ -1,0 +1,9 @@
+This project developed in c++.
+There are three main user:
+ 1) admin
+ 2) Employee
+ 3) ATM
+ admin account password is hardcored in code. 
+   admin username    = amirghafoor
+   admin password    = 12345678
+   admin CNIC number = 12345-1234567-9
