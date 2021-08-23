@@ -6,6 +6,6 @@ Language : C++
 Description :
 
 To Run this Code :
-* Just Install Cpp Compiler 
+* Just Install Cpp Compiler (Use Microsoft Visual Studio not dev compiler)
 * Run "main.cpp" file 😊
-* Console application
+* Use Console application 😊
