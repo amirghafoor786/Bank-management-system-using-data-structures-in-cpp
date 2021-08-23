@@ -1,9 +1,9 @@
-A Data Structures and Algoritms Project using the concept of linked lists.
-Bank Management System - Data Structures
+# Data Structures and Algoritms Project using the concept of linked lists.
+# Bank Management System - Data Structures
 
-Language : C++
+# Language : C++
 
-Description :
+# Description :
 
 To Run this Code :
 * Just Install Cpp Compiler (Use Microsoft Visual Studio not dev compiler)
