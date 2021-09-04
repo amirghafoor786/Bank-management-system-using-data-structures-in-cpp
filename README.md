@@ -1,9 +1,9 @@
 # Data Structures and Algoritms Project using the concept of linked lists.
 # Bank Management System - Data Structures
-# Method
+# Method :
 Linked list
-# Language : C++
-
+# Language :
+C++
 # Description :
 
 To Run this Code :
